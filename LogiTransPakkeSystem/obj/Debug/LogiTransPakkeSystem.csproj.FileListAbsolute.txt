@@ -1,0 +1,24 @@
+C:\Users\ADM_Tienesh\source\repos\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.csproj.AssemblyReference.cache
+C:\Users\ADM_Tienesh\source\repos\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\Shipments_Maker.Form1.resources
+C:\Users\ADM_Tienesh\source\repos\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.Properties.Resources.resources
+C:\Users\ADM_Tienesh\source\repos\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.csproj.GenerateResource.cache
+C:\Users\ADM_Tienesh\source\repos\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.csproj.CoreCompileInputs.cache
+C:\Users\ADM_Tienesh\source\repos\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Debug\LogiTransPakkeSystem.exe.config
+C:\Users\ADM_Tienesh\source\repos\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Debug\LogiTransPakkeSystem.exe
+C:\Users\ADM_Tienesh\source\repos\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Debug\LogiTransPakkeSystem.pdb
+C:\Users\ADM_Tienesh\source\repos\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.exe
+C:\Users\ADM_Tienesh\source\repos\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.pdb
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Debug\LogiTransPakkeSystem.exe.config
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Debug\LogiTransPakkeSystem.exe.manifest
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Debug\LogiTransPakkeSystem.application
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Debug\LogiTransPakkeSystem.exe
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Debug\LogiTransPakkeSystem.pdb
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.csproj.AssemblyReference.cache
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\Shipments_Maker.Form1.resources
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.Properties.Resources.resources
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.csproj.GenerateResource.cache
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.csproj.CoreCompileInputs.cache
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.exe.manifest
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.application
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.exe
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Debug\LogiTransPakkeSystem.pdb

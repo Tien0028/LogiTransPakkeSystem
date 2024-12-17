@@ -1,0 +1,14 @@
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Release\LogiTransPakkeSystem.exe.config
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Release\LogiTransPakkeSystem.exe
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Release\LogiTransPakkeSystem.pdb
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Release\LogiTransPakkeSystem.csproj.AssemblyReference.cache
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Release\Shipments_Maker.Form1.resources
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Release\LogiTransPakkeSystem.Properties.Resources.resources
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Release\LogiTransPakkeSystem.csproj.GenerateResource.cache
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Release\LogiTransPakkeSystem.csproj.CoreCompileInputs.cache
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Release\LogiTransPakkeSystem.exe
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Release\LogiTransPakkeSystem.pdb
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Release\LogiTransPakkeSystem.exe.manifest
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\bin\Release\LogiTransPakkeSystem.application
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Release\LogiTransPakkeSystem.exe.manifest
+C:\Users\ADM_Tienesh\OneDrive - Syddansk Erhvervsskole\Desktop\Grundforløbsprøve\Test Files\LogiTransPakkeSystem\LogiTransPakkeSystem\obj\Release\LogiTransPakkeSystem.application

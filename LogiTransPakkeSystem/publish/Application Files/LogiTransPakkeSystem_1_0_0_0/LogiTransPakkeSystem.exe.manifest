@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="LogiTransPakkeSystem.exe" version="1.0.0.0" publicKeyToken="2b36fe81ee949a7e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="LogiTransPakkeSystem" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="LogiTransPakkeSystem.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LogiTransPakkeSystem.exe" size="88032">
+      <assemblyIdentity name="LogiTransPakkeSystem" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>a7pEdKksfWw1729j6N3Mgmf0wWj3huNGA5SJ8bTtIkQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="LogiTransPakkeSystem.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DWIN11X64\ADM_Tienesh" issuerKeyHash="4a019d252b7dc6d9605dba042c94acb0a222f04a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Gtt27cKvwE4Q/LVrszDvFkXLL6J9KViBcJC/CdupdP8=</DigestValue></Reference></SignedInfo><SignatureValue>hGNb5q9DXw3jtCOIkVxVcaxmvRQOWm57OTB9LscBrKQ9tpATHBTkrn9om4IhItyGY+DmAxIU/8Y1b9lnRU+hnzyiDsHa9z70W7q6hlq5gma+zYPkVttI0Q1IQUnXjiIeHbjyuVQaS5JgWAvcJFmLjnw6aug2E7bT0QLriL7pvnY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wgst/3xPeJUe4gpl8kRcujGoiFuRop1bV+cFO3824QZBvo5zhy9feaFVjGnMQkbJzlxT+l6V2iUhDT92Y8A+/Q5VQSXWurGZjglczqjZKnMxq4D85+CIs2Iiz/LE+5CtS2Pj+5kLOYHK6m9Y6yR8gJFUk2yQ7Y7WNWjxZX23vkE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ff74a9db09bf90708158297da22fcb4516ef30b36bb5fc104ec0afc2ed76db1a" Description="" Url=""><as:assemblyIdentity name="LogiTransPakkeSystem.exe" version="1.0.0.0" publicKeyToken="2b36fe81ee949a7e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DWIN11X64\ADM_Tienesh</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ZgfamHlq9yehjxOWxIRguEX9SMVHWcXgyEgoKlob39A=</DigestValue></Reference></SignedInfo><SignatureValue>bXojGEcm3xT1faJnaqAOCNMIrqUadAKqFmzqaJ1UUi2ucAKL9PU4zmQFREcvxRGBTvbCGsGRKiLamrHYvvsugIBQqggkhhKCmvy9qVkInC78cg3IE80zqdBxyX3+MPQqK3KhvW4sXw0ZKJyU/xauIYEwVqQSr+LvkyeMOYZz/s8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wgst/3xPeJUe4gpl8kRcujGoiFuRop1bV+cFO3824QZBvo5zhy9feaFVjGnMQkbJzlxT+l6V2iUhDT92Y8A+/Q5VQSXWurGZjglczqjZKnMxq4D85+CIs2Iiz/LE+5CtS2Pj+5kLOYHK6m9Y6yR8gJFUk2yQ7Y7WNWjxZX23vkE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQLvyCHPgZ1a9MTnDc1rLk9DANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABXAEkATgAxADEAWAA2ADQAXABBAEQATQBfAFQAaQBlAG4AZQBzAGgwHhcNMjQxMjE2MTEwMzQ0WhcNMjUxMjE2MTcwMzQ0WjA1MTMwMQYDVQQDHioARABXAEkATgAxADEAWAA2ADQAXABBAEQATQBfAFQAaQBlAG4AZQBzAGgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMILLf98T3iVHuIKZfJEXLoxqIhbkaKdW1fnBTt/NuEGQb6Oc4cvX3mhVYxpzEJGyc5cU/peldolIQ0/dmPAPv0OVUEl1rqxmY4JXM6o2SpzMauA/OfgiLNiIs/yxPuQrUtj4/uZCzmByupvWOskfICRVJNskO2O1jVo8WV9t75BAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAh+UUa/nQ0cM/IUibiOWgxywGAPMsSYwmruPqTlj84CPEYzfZt3oiiwOH6B7XxAaaQhT6Tw5rhUrZanb/5kLd1+GHKEX3uTPnslDapw3ARSRunBJt83n+cfczyM5nsc0Az16+hgM0F19B4RR0yiTiw+OfOPG8hG9A7GCqzDNGZPk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
